@@ -1,0 +1,6 @@
+canvas {
+    border: 1px solid brown;
+    background-color: aliceblue;
+    position: relative;
+    z-index: 1;
+}
